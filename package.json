@@ -1,0 +1,36 @@
+{
+    "author": "fukaya@dokokano.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "ftclock",
+    "pebble": {
+        "displayName": "ftclock",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/patsuusa144wh2.png",
+                    "name": "IMAGE_PATSUUSA3",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/patsuusa144bk2.png",
+                    "name": "IMAGE_PATSUUSA2",
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt"
+        ],
+        "uuid": "19d0c6e0-0a6c-4724-bd42-af45f047de55",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
